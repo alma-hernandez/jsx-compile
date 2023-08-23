@@ -1,3 +1,4 @@
+// template.js
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand navbar-light bg-light">
@@ -29,7 +30,7 @@ const Sidebar = () => {
 const Footer = () => {
   return (
     <div className="border-top p-2">
-      Template Demo © 2019<span class="d-none">don't be lazy</span>
+      Template Demo © 2019
     </div>
   )
 }
